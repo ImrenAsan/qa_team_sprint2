@@ -7,4 +7,7 @@ public class AliClass {
     // everything is ok?
 
     // Good luck
+
+    // Some additions
+
 }
