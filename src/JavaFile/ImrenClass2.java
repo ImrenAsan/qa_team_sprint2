@@ -1,7 +1,8 @@
 package JavaFile;
 
-public class ImrenClass {
+public class ImrenClass2 {
 
+<<<<<<< HEAD
 
     public static void main(String[] args) {
 
@@ -15,4 +16,8 @@ public class ImrenClass {
     }
 
 
+=======
+    //,,,
+    //jghj
+>>>>>>> master
 }
